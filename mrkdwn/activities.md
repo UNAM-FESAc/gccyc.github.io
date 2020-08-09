@@ -6,8 +6,8 @@ layout: default
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.es
 [![CC License][license-badge]][license]
 
-## Activies
-[Go back](./)
+## Academic Activities
+[Go back](./markdown/./)
 
 We extend the invitation to...:
 <!--
@@ -16,4 +16,4 @@ We extend the invitation to...:
 -->
 
 <!-- JO: with the original template-->
-[Go back](./mrkdwn/)
+[Go back](../)
