@@ -8,7 +8,6 @@ layout: default
 
 ## Academic Activities
 [Go back](../)
-
 We extend the invitation to...:
 <!--
 ![width='40%'](figs/QuantaCalaverita.png)

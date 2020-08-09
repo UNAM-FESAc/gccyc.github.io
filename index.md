@@ -13,7 +13,7 @@ implement more documentation in [SEA UNAM](https://sea.acatlan.unam.mx/),
 [kahoot](https://kahoot.com/) and others.
 
 
-1. [Programming I](./prgrmminCBsc.html)
+1. [Programming I](./mrkdwn/prgrmminCBsc.html)
 1. [Activities](./mrkdwn/activities.html)
 
 
