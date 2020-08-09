@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Programming I <a name="./another-page.html"></a>
+# Courses and more
 <!--(./another-page.html).-->
 
 This is course is designed to **Acatlan Faculty of Higher Studies** 
@@ -13,7 +13,9 @@ implement more documentation in [SEA UNAM](https://sea.acatlan.unam.mx/),
 [kahoot](https://kahoot.com/) and others.
 
 
-[Programming I](./another-page.html).
+1. [Programming I](./another-page.html).
+1. [Activities](./mrkdwn/activities.html)
+
 
 <!--
 

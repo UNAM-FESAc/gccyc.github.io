@@ -22,10 +22,9 @@ Welcome to this course and I hope you enjoy it.
 ## Table of Contents
 
 1. [Material](#material)
-2. [Homework](#homework)
-3. [About GPA](#aboutgpa)
-4. [Activities](#activities)
-5. [Referencias](#referencias)
+1. [Homework](#homework)
+1. [About GPA](#aboutgpa)
+1. [Referencias](#referencias)
 
 
 
@@ -72,22 +71,7 @@ programming.
   Material, informationn and homeworks or SAE (web site) exercise |10 %          |
   
 
-## 4. Activities <a name="activities"></a>
-
-We extend the invitation to...:
-
-![width='40%'](figs/QuantaCalaverita.png)
-**Figure 1**: Quanta Calaverita 2019. 
-
-<!--
-\centering
-![width='80%'](figs/CTIM_2019_I.jpeg)
-\raggedright
-\tableofcontents
-\clearpage
--->
-
-## 5. Referencias <a name="referencias"></a>
+## 4. References <a name="referencias"></a>
 1. Ir a Mis algoritmos [:link:](http://www.mis-algoritmos.com/)
 
 2. Ir a Resource [:link:](https://www.w3resource.com/c-programming/programming-in-c.php)
