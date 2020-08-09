@@ -13,7 +13,7 @@ Faculty Acatlan of Higher Studies
 
 In this part, you find materials, exercises, codes and 
 documentation related to _Computación I_, course given at 
-FESAc-UNAM by [Javier Orduz](https:jaorduz.github.io).
+FESAc-UNAM by [Javier Orduz](https://jaorduz.github.io).
 
 Welcome to this course and I hope you enjoy it.
 
@@ -28,16 +28,16 @@ Welcome to this course and I hope you enjoy it.
 
 
 ## 1. Material  <a name="material"></a>
-Check the link ([:link:](http://sae.acatlan.unam.mx/)) 
+Check the [link](http://sae.acatlan.unam.mx/){:target="_blank"} 
 use the data given for Salvador or Alfonso to log in.
 Besides you can download the document use in the class 
-[here](https://www.dropbox.com/s/f5ats3j5liw0fqx/prgrmmng-I-clss.pdf?dl=0).
+[here](https://www.dropbox.com/s/f5ats3j5liw0fqx/prgrmmng-I-clss.pdf?dl=0){:target="_blank"}.
 
 
 ## 2. Lectures and homework <a name="homework"></a>
 The student has to read the following blogs:
-- [7 secrets...](https://www.codementor.io/codementorteam/7-secrets-to-staying-motivated-when-learning-to-code-a2dy7hqar) 
-- [To motivate myself...](https://www.quora.com/What-can-I-do-to-motivate-myself-for-programming-regularly-for-4-6-hours)
+- [7 secrets...](https://www.codementor.io/codementorteam/7-secrets-to-staying-motivated-when-learning-to-code-a2dy7hqar){:target="_blank"} 
+- [To motivate myself...](https://www.quora.com/What-can-I-do-to-motivate-myself-for-programming-regularly-for-4-6-hours){:target="_blank"}
 
 Now you can discuss with your classmates :stuck_out_tongue_winking_eye:.
 
@@ -47,9 +47,9 @@ Ask to Salvador, Alfonso, Miguel, Diana and GCCyC about the course, philosophy, 
 Hi guys! In this part all of you will find the first homework. 
 
 To start you have to read the next papers:
-- Read the abstract and Introduction of this [paper](https://arxiv.org/pdf/1307.1719.pdf) (Identifying change patterns in software history)
-- Read [The golden age of software architecture](https://ieeexplore.ieee.org/document/1605176/)
-- Read the parts 1 and 2 of the [The History of Software Architecture - In the Eye of the Practitioner](https://arxiv.org/pdf/1806.04055.pdf)
+- Read the abstract and Introduction of this [paper](https://arxiv.org/pdf/1307.1719.pdf){:target="_blank"} (Identifying change patterns in software history)
+- Read [The golden age of software architecture](https://ieeexplore.ieee.org/document/1605176/){:target="_blank"}
+- Read the parts 1 and 2 of the [The History of Software Architecture - In the Eye of the Practitioner](https://arxiv.org/pdf/1806.04055.pdf){:target="_blank"}
 
 Now you have to write a report (nice document!) about the importance and the impact of the software in the actual world. 
 <!---
