@@ -2,7 +2,8 @@
 layout: default
 ---
 
-#[Programming I](./another-page.html).
+# Programming I <a name="./another-page.html"></a>
+<!--(./another-page.html).-->
 
 This is course is designed to **Acatlan Faculty of Higher Studies** 
 students, however this website could be used for more people, but 
@@ -14,7 +15,7 @@ implement more documentation in [SEA UNAM](https://sea.acatlan.unam.mx/),
 
 [Programming I](./another-page.html).
 
-
+<!--
 
 There should be whitespace between paragraphs.
 
@@ -131,3 +132,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
