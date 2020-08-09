@@ -2,8 +2,19 @@
 layout: default
 ---
 
-## Welcome to another page
+## Programming I
 
-_yay_
+Faculty Acatlan of Higher Studies
 
-[back](./)
+In this part, you find materials, exercises, codes and 
+documentation related to _Computación I_, course given at 
+FESAc-UNAM by [Javier Orduz](https:jaorduz.github.io).
+
+Welcome to this course and I hope you enjoy it.
+
+
+
+
+
+
+[Go back](./)
