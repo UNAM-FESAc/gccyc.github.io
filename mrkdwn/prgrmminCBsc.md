@@ -6,9 +6,8 @@ layout: default
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.es
 [![CC License][license-badge]][license]
 
-## Programming I
-[Go back](./)
-
+## Programming I<a name="Filehead"></a>
+[Go back](../)
 
 Faculty Acatlan of Higher Studies
 
@@ -84,6 +83,7 @@ programming.
 
 6. Ir a programiz [:link:](https://www.programiz.com/c-programming)
 
-#### [Go up](#couproi)
+#### [Go up](#Filehead)
+
 <!-- JO: with the original template-->
-[Go back](./)
+[Go back](../)

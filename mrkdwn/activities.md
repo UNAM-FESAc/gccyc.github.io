@@ -7,7 +7,7 @@ layout: default
 [![CC License][license-badge]][license]
 
 ## Academic Activities
-[Go back](./markdown/./)
+[Go back](../)
 
 We extend the invitation to...:
 <!--
