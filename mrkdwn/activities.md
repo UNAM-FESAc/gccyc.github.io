@@ -16,4 +16,4 @@ We extend the invitation to...:
 -->
 
 <!-- JO: with the original template-->
-[Go back](./)
+[Go back](./mrkdwn/)

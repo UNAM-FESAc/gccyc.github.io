@@ -84,8 +84,6 @@ programming.
 
 6. Ir a programiz [:link:](https://www.programiz.com/c-programming)
 
-#### [Volver al inicio](#couproi)
-
-
+#### [Go up](#couproi)
 <!-- JO: with the original template-->
 [Go back](./)
