@@ -2,9 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+#[Programming I](./another-page.html).
 
-[Link to another page](./another-page.html).
+This is course is designed to **Acatlan Faculty of Higher Studies** 
+students, however this website could be used for more people, but 
+some information complimentary it will not available, since I usually 
+implement more documentation in [SEA UNAM](https://sea.acatlan.unam.mx/), 
+[code](https://code.org/), [tech.io](https://tech.io/), [repl.it](repl.it) ad more; and tests, quizes and more should be found 
+[kahoot](https://kahoot.com/) and others.
+
+
+[Programming I](./another-page.html).
+
+
 
 There should be whitespace between paragraphs.
 

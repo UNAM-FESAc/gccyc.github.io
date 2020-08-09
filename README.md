@@ -7,9 +7,10 @@ information, it was created by [Javier Orduz](https://gccyc.github.io/).
 
 # Instrucctions to reproduce this web site
 
-1. Go to _config.yml file: 
-2. Go to _layouts/default.html: change the information.
-3. Go to another-page.md: mo introduce information for a different page.
+1. Go to _config.yml file: introduce some other information.
+2. Go to _layouts/default.html: change the information and other parameters.
+3. Go to index.md: to introduce information.
+4. Go to another-page.md: mo introduce information for a different page.
 
 
 1. Go to [jaorduz.github.io](https://github.com/jaorduz/jaorduz.github.io) and follow the instructions
