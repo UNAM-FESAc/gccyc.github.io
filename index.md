@@ -5,17 +5,26 @@ layout: default
 # Courses and more
 <!--(./another-page.html).-->
 
-This is course is designed to **Acatlan Faculty of Higher Studies** 
+This is course is designed for **Acatlan Faculty of Higher Studies** 
 students, however this website could be used for more people, but 
 some information complimentary it will not available, since I usually 
-implement more documentation in [SEA UNAM](https://sea.acatlan.unam.mx/), 
-[code](https://code.org/), [tech.io](https://tech.io/), [repl.it](repl.it) ad more; and tests, quizes and more should be found 
-[kahoot](https://kahoot.com/) and others.
+implement more documentation in 
+[SEA UNAM](https://sea.acatlan.unam.mx/){:target="_blank"}, 
+[code](https://code.org/){:target="_blank"}, [tech.io](https://tech.io/){:target="_blank"}, [repl.it](https://repl.it){:target="_blank"} ad more; and tests, quizes and more should be found 
+[kahoot](https://kahoot.com/){:target="_blank"} and others.
 
 
-1. [Programming I](./mrkdwn/prgrmminCBsc.html)
+1. [Basic Programming with C](./mrkdwn/prgrmminCBsc.html)
 1. [Activities](./mrkdwn/activities.html)
+<!--
 
+1. [About: GCCyC](./mrkdwn/gccycInfo.html)
+1. [Advanced Programmaing with C](./mrkdwn/gccycInfo.html)
+
+1. [GccyC Blog](./mrkdwn/gccycInfo.html)
+1. [CTIM Seminar Blog](./mrkdwn/gccycInfo.html) Link to the website
+1. [Contributions and more CTIM](./mrkdwn/gccycInfo.html)
+-->
 
 <!--
 

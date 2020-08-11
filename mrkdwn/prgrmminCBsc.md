@@ -29,7 +29,7 @@ Welcome to this course and I hope you enjoy it.
 
 ## 1. Material  <a name="material"></a>
 Check the [link](http://sae.acatlan.unam.mx/){:target="_blank"} 
-use the data given for Salvador or Alfonso to log in.
+use the data given for Salvador to log in.
 Besides you can download the document use in the class 
 [here](https://www.dropbox.com/s/f5ats3j5liw0fqx/prgrmmng-I-clss.pdf?dl=0){:target="_blank"}.
 
@@ -63,25 +63,31 @@ programming.
 
    Object                                                         |  Porcentage  |
 ------------------------------------------------------------------| -------------|
-  First exam (17-21 september):                 | 30 %         |
-  Second exam (05-09 november):                 | 30 %         |
-  Final Project (friday 16 november):                        | 20 %         | 
+  First exam (26-30 october):                 | 30 %         |
+  Second exam (07-11 december):                 | 30 %         |
+  Final Project (friday 15 january (2021)):                        | 20 %         | 
   Laboratory jobs and class exercises:                            | 10 %         |
   Material, informationn and homeworks or SAE (web site) exercise |10 %          |
   
 
+You continuously check the 
+[Official UNAM](https://www.dgae.unam.mx/calendarios_escolares.html){:target="_blank"} and the calendars 
+[anual](http://escolar1.unam.mx/pdfs/calendario_anual2021.pdf){:target="_blank"} and 
+[semestral](http://escolar1.unam.mx/pdfs/calendario_semestral2021.pdf){:target="_blank"} and the official web site.
+
+
 ## 4. References <a name="referencias"></a>
-1. Ir a Mis algoritmos [:link:](http://www.mis-algoritmos.com/)
+1. Ir a Mis algoritmos [link](http://www.mis-algoritmos.com/){:target="_blank"}
 
-2. Ir a Resource [:link:](https://www.w3resource.com/c-programming/programming-in-c.php)
+2. Ir a Resource [link](https://www.w3resource.com/c-programming/programming-in-c.php){:target="_blank"}
 
-3. Ir a includehelp [:link:](https://www.includehelp.com/c/)
+3. Ir a includehelp [link](https://www.includehelp.com/c/){:target="_blank"}
 
-4. Ir a faceprep [:link:](https://www.faceprep.in/c-programming-questions/)
+4. Ir a faceprep [link](https://www.faceprep.in/c-programming-questions/){:target="_blank"}
 
-5. Ir a geekforgeeks [:link:](https://www.geeksforgeeks.org/c-programming-language/)
+5. Ir a geekforgeeks [link](https://www.geeksforgeeks.org/c-programming-language/){:target="_blank"}
 
-6. Ir a programiz [:link:](https://www.programiz.com/c-programming)
+6. Ir a programiz [link](https://www.programiz.com/c-programming){:target="_blank"}
 
 #### [Go up](#Filehead)
 

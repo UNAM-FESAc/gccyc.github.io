@@ -8,3 +8,5 @@ theme: jekyll-theme-minimal
 date_format: "%B %-d, %Y"
 timezone: "America/MexicoCity"
 markdown: kramdown
+pathposter: /assets/img/CTIM_Pster_20-08.pdf
+
