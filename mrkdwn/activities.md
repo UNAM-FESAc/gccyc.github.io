@@ -11,11 +11,12 @@ layout: default
 [Go back](../)
 
 We extend the invitation to...:
-![width='40%'](/assets/img/CTIM_Pster_20-08.pdf)
-<!--
+![width='40%'](../assets/img/CTIM_Pster_20-08.pdf)
+
+<!---
 ![width='40%'](figs/QuantaCalaverita.png)
 **Figure 1**: Quanta Calaverita 2019. 
--->
+--->
 
-<!-- JO: with the original template-->
+<!--- JO: with the original template --->
 [Go back](../)

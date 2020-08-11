@@ -16,6 +16,7 @@ implement more documentation in
 
 1. [Basic Programming with C](./mrkdwn/prgrmminCBsc.html)
 1. [Activities](./mrkdwn/activities.html)
+
 <!--
 
 1. [About: GCCyC](./mrkdwn/gccycInfo.html)
@@ -24,9 +25,6 @@ implement more documentation in
 1. [GccyC Blog](./mrkdwn/gccycInfo.html)
 1. [CTIM Seminar Blog](./mrkdwn/gccycInfo.html) Link to the website
 1. [Contributions and more CTIM](./mrkdwn/gccycInfo.html)
--->
-
-<!--
 
 There should be whitespace between paragraphs.
 
