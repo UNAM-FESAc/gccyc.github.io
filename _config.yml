@@ -59,9 +59,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : jaorduc #JO &twitter
+  username               : "jaorduc" #JO &twitter
 facebook:
-  username               : jaorduz
+  username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -89,9 +89,9 @@ author:
   employer         :
 # JO
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=es&authuser=1&user=rHvwRj0AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/J_Orduz-Ducuara"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,13 +106,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0279-7458"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "jaorduc"
   vine             :
   weibo            :
   xing             :
