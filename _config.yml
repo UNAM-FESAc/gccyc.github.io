@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Researcher and professor"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Javier Orduz"
 description              : &description "personal description"
 url                      : https://unam-fesac.github.io/gccyc.github.io 
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Javier A. Orduz-Ducuara"
   avatar           : "javo.jpg"
-  bio              : "Researcher, professor and Quantum computing and Machine Learning enthusiast."
-  location         : "UNAM"
+  bio              : "Researcher, professor, and Quantum Computing and Machine Learning enthusiast."
+  location         : "FESAc-UNAM"
   employer         :
 # JO
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -118,6 +118,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  CV               : "https://www.dropbox.com/s/67gfnrz8e91syyk/JO_CV_En-vOL.pdf?dl=0"
 
 
 # Reading Files
