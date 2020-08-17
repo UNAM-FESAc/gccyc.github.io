@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Programming I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Acatlan Faculty of Higher Studies, Mathematics and Engineering Department"
+date: 2014-09-21
+location: "Naucalpan de Juarez, Mexico"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course shows the foundations about programming. 
+For each session, I like implementing new pedagogical 
+and technical knowledge in order to share the ideas 
+about progamming logic. Since I love mathematics, I use to 
+take some examples and concepts to do examples.
 
-Heading 1
-======
+In the [UNAM FESAc's website](https://unam-fesac.github.io/), you will 
+figure out more information.
 
-Heading 2
-======
-
-Heading 3
-======
