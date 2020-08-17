@@ -69,7 +69,7 @@ Skills
   * Models for science education
   
  
-Recent Publications
+Publications and other derivated contributions
 ======
   <ul>
   	{% for post in site.publications %}
