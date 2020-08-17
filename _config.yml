@@ -97,15 +97,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/jaorduz.d/"
   foursquare       :
   github           : "jaorduz"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  lastfm           : 
+  linkedin         : "www.linkedin.com/in/jaorduz"
   orcid            : "https://orcid.org/0000-0003-0279-7458"
   pinterest        :
   soundcloud       :
@@ -229,7 +229,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false # JO: true
+      share: true # JO: true. NothingDo
       comments: true
   # _portfolio
   - scope:
