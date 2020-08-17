@@ -11,36 +11,60 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physic, [UPTC](http://www.uptc.edu.co/){:target="_blank"}, 2008
+* M.S (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2010
+* Ph.D (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* February 2017: Associate professor
+  * [FESAc-UNAM](https://www.acatlan.unam.mx/){:target="_blank"}
+  * HEP: Phenonomenology on THDM at loop level
+  * Supervisor: Ricardo Gaitan
+
+* March 2016: Postdoctoral Researcher
+  * [UNAM](https://www.cuautitlan.unam.mx/#gsc.tab=0){:target="_blank"}
+  * HEP: Phenonomenology on THDM at loop level
+  * Supervisor: Ricardo Gaitan
+
+* March 2015: Postdoctoral Researcher
+  * [UNAM](https://www.unam.mx/){:target="_blank"}
+  * Distance education: Physics laboratory for High education
+  * [CUAED](https://distancia.cuaed.unam.mx/){:target="_blank"}
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+* Physics
+  * High Energy Physics
+  * Quantum Mechanics
+  * Higgs Physics
+  * Beyond Standard Model
+  * Standard Model
+* Mathematics
+  * Calculus
+  * Linear Algebra
+  * Geometry
+* Computing
+  * Python
+  * C
+  * C++
+  * Swift
+  * IOSX
+  * Linux
+* Education
+  * Distance education
+  * Models for science education
+  
+ 
+Recent Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>
+  	{% for post in site.publications %}
+    	{% include archive-single-cv.html %}
+  	{% endfor %}
+  </ul>
   
 Talks
 ======
