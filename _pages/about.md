@@ -11,8 +11,7 @@ redirect_from:
 JO is an associate professor at 
 [Acatlan Faculty of Higher Studies](https://www.acatlan.unam.mx/){:target="_blank"} ([UNAM](https://www.unam.mx/){:target="_blank"}).
 He is enrolled in the 
-[applied mathematics and computing program]
-(http://www.mac.acatlan.unam.mx/){:target="_blank"}. 
+[applied mathematics and computing program](http://www.mac.acatlan.unam.mx/){:target="_blank"}. 
 He gives courses about computing, Mathematics, Quantum Computing; 
 and promotes topics as Quantum Machine Learning and Machine Learning 
 in the FESAc-UNAM community.
