@@ -59,7 +59,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : https://twitter.com/jaorduc #JO &twitter
+  username               : jaorduc #JO &twitter
 facebook:
   username               : jaorduz
   app_id                 :
@@ -87,7 +87,8 @@ author:
   bio              : "Researcher, professor and Quantum computing and Machine Learning enthusiast."
   location         : "UNAM"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+# JO
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
