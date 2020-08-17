@@ -12,12 +12,12 @@ paperurl: 'http://www.inteligencianet.com/moodle/mod/page/view.php?id=1155'
 citation: 'Students in training, Collaborators. (2018). &quot;Several titles.&quot; <i>Online</i>. 1(1).'
 ---
 
-**Note:** this document was obtained as a proceedings 
-from CTIM Seminar, all contained information is author property. 
+**Note:** this document was obtained as a contributions  
+from Javier Orduz courses, all contained information is author property. 
 
 
 This contributions were obtained from some courses given in FES Acatlán:
 
 * [Escamilla Uribe, P. C.](https://issuu.com/maricgv/docs/98-rstudio){:target="_blank"} 
 * [Fuentes Guido, D.](https://issuu.com/maricgv/docs/96-powtoon){:target="_blank"} 
-* [Santiago Suárez, R.](https://issuu.com/maricgv/docs/96-powtoon){:target="_blank"}
+* [Santiago Suárez, R.](https://issuu.com/maricgv/docs/95a-p5){:target="_blank"}
