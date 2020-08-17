@@ -66,13 +66,13 @@ Recent Publications
   	{% endfor %}
   </ul>
   
-Talks
+Recent Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Recent Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -80,4 +80,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* GCCyC: Group on Quantum and Scientific Computing
+* [Yeyecoa Project](http://www.yeyecoa.acatlan.unam.mx/)
+* [Seminar: CTIM](https://sites.google.com/view/ctimfesac). Check our 
+[youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA).
+* [Courses](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal)
+
