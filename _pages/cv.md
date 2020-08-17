@@ -29,8 +29,11 @@ Work experience
 
 * February 2017: Associate professor
   * [FESAc-UNAM](https://www.acatlan.unam.mx/){:target="_blank"}
-  * HEP: Phenonomenology on THDM at loop level
-  * Supervisor: Ricardo Gaitan
+  * Projects: 
+    - Seminario CTIM
+    - yeyecoa project
+    - Seminario CTIM Proceedings
+    - GCCyC
 
 * March 2016: Postdoctoral Researcher
   * [UNAM](https://www.cuautitlan.unam.mx/#gsc.tab=0){:target="_blank"}
