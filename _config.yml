@@ -84,13 +84,12 @@ analytics:
 author:
   name             : "Javier A. Orduz-Ducuara"
   avatar           : "javo.jpg"
-  bio              : "Professor, researcher; and Quantum Qomputing and Quantum Machine Learning enthusiast."
-  location         : "FES Acatlán-UNAM"
-  employer         : "UNAM"
-#JO:  
-#pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=es&user=rHvwRj0AAAAJ"
-  email            : jaorduz@ciencias.unam.mx
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -105,14 +104,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :"/in/jaorduz"
-  orcid            : "https://orcid.org/0000-0003-0279-7458"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jaorduc"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -200,7 +199,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false # JO: true
+      author_profile: true
       read_time: true
       comments: true
       share: true
@@ -237,7 +236,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false # JO: true
+      share: true
       comment: true
   # _talks
   - scope:
@@ -245,7 +244,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: false # JO: true
+      author_profile: true
       share: true
 
 # Sass/SCSS
