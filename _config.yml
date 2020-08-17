@@ -85,7 +85,7 @@ author:
   name             : "Javier A. Orduz-Ducuara"
   avatar           : "javo.jpg"
   bio              : "Researcher, professor, and Quantum Computing and Machine Learning enthusiast."
-  location         : "FESAc-UNAM"
+  location         : "http://www.mac.acatlan.unam.mx/"
   employer         :
 # JO
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -117,7 +117,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "https://www.dropbox.com/s/67gfnrz8e91syyk/JO_CV_En-vOL.pdf?dl=0"
   CV               : "https://www.dropbox.com/s/67gfnrz8e91syyk/JO_CV_En-vOL.pdf?dl=0"
 
 
