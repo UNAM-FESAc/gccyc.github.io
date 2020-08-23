@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
-# Documentation
+Documentation
 ======
 * CV (full, english version) [PDF](https://www.dropbox.com/s/67gfnrz8e91syyk/JO_CV_En-vOL.pdf?dl=0){:target="_blank"} 
 * CV (short, english version) [PDF](https://www.dropbox.com/s/2hkwzghtxd4npxb/CVShortJO.pdf?dl=0){:target="_blank"} 
