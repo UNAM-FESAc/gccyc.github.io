@@ -1,22 +1,47 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Long Beach, USA (ICML)",
+    33.763889,
+    -118.18833
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Montreal, CAN (NeuRIPS)",
+    45.504,
+    -73.561
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Naucalpan de Juarez, MX (FESAc-UNAM)",
+    19.4818,
+    -99.2454
+  ],
+    [
+    "Sanya, CHINE (Tsinghua Sanya International Mathematics Forum)",
+    18.3192,
+    109.4156
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Siegen, GER (Siegen University)",
+    50.9117,
+    8.0254
+  ],
+    [
+    "Mainz, GER (Mainz University, Johannes Gutenberg)",
+    49.9939,
+    8.2415
+  ],
+    [
+    "Sao Paulo, BRA (ICTP)",
+    -23.5242,
+    -46.6646
+  ],
+    [
+    "Antigua, GUA",
+    14.5595,
+    -90.7294,
+  ],
+    [
+    "Oxford, ENG",
+    51.7619,
+    -1.2623,
   ]
 ];
