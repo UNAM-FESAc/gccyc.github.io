@@ -35,6 +35,7 @@
             {% else %}
               {% assign active = "" %}
             {% endif %}
+
             <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
           {% endfor %}
         </ul>
